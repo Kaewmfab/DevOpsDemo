@@ -10,9 +10,7 @@ public class FizzBuzzConverter {
         } else if (i % 7 == 0) {
             return "Buzz";
         }
-        //return String.valueOf(i);
-
-        return sdasdq
+        return String.valueOf(i);
     }
 
 }
